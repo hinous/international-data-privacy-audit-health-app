@@ -1,0 +1,5 @@
+While both frameworks aim to empower individuals over their personal data, the GDPR expands the traditional ARCO model (Access, Rectification, Cancellation, and Opposition) found in Mexico's LFPDPPP by introducing higher levels of digital autonomy.
+
+In the Mexican framework, Cancellation and Opposition serve as the primary tools for data suppression and processing restrictions. However, the GDPR introduces the Right to Erasure ('Right to be Forgotten') and the Right to Restriction of Processing as more granular controls. The most significant divergence is the GDPR's Right to Data Portability (Art. 20), which lacks a direct, mandatory equivalent in the current Mexican private sector law.
+
+For a HealthTech application, this means that while a Mexican user can stop a clinic from processing their data, a European user has the additional legal power to demand their medical records be transferred directly to another provider in a structured, machine-readable format—a technical challenge that requires robust API security and interoperability standards.
